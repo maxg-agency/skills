@@ -33,7 +33,7 @@ No Claude Code? Open the skill folder and use its `prompt.md`.
 
 ## Author
 
-Max Gankov, founder of [Max G Agency](https://maxg.agency). I help founders grow products and bring AI into how their teams build.
+Max Gankov, founder of [Max G Agency](https://maxg.agency), an AI automation agency for tech and service companies with a team.
 
 - Website: https://maxg.agency
 - LinkedIn: https://www.linkedin.com/in/max-gankov
