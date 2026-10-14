@@ -25,6 +25,13 @@ Plain language throughout, in every mode. No methodology terms, no frameworks by
 ### How to run the conversation
 
 1. One question per message. Wait for the answer before the next one.
+   - **Ask through the question tool when the interface has one** (in Claude Code it is `AskUserQuestion`). The user answers with one click, and the same block is easy to forward to a co-founder. Rules for the block:
+     - One question per call. The question itself is short; any context you need goes in a line or two of chat right before the call.
+     - Two to four options. Your recommended guess goes first and is marked "(Recommended)". The others are real alternatives, not filler. The tool adds "Other" by itself, so never add one.
+     - Each option label is a few words; the description says what picking it means for the project.
+     - The header is one or two words naming the topic: "Goal", "Audience", "Source", "Non-goals", "Concerns", "Constraints".
+     - When answers can combine (concerns, constraints, channels), allow several picks.
+   - If there is no question tool, ask in plain text, and put the options as a numbered list so the user can answer with a number.
 2. Start with the goal. When the user describes a solution ("I want a landing page", "I want a Telegram bot"), ask why, and ask what changes in their day or their business once it exists. Go one level up until you reach something the user actually wants, not something they plan to build.
 3. For every question, offer your own guess as a recommended answer when you can make one from what the user already said. The user confirms or corrects, which is faster than writing from scratch.
 4. When the user says "not sure" or "I don't know", do not move on. Switch to Research mode for that question, bring back a short summary with sources, then ask the user to pick.
