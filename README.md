@@ -25,6 +25,7 @@ No Claude Code? Use [prompt.md](prompt.md): the same interview and the same gril
 
 ```
 /step-zero                 start the interview, get concept.md
+/step-zero research        competitors, audience, market, with sources
 /step-zero grill           roast an idea or the existing concept.md
 ```
 
@@ -39,7 +40,11 @@ The interview asks six things, in this order:
 5. Your concerns, all of them, each weighed by likelihood and damage.
 6. Constraints: deadline, budget, stack, decisions already made.
 
-If you answer "not sure", it does not move on. It researches the question and brings back options with sources.
+If you answer "not sure", it does not move on. It researches the question and brings back options with sources. Three kinds of research, each saved to `research/`:
+
+- Competitors: five to eight of them, first-screen promise, prices, free tier, what their users praise and complain about in public reviews, where everyone is weak.
+- Audience portrait: built from what real people wrote in reviews and forums, grouped by what they wanted and what annoyed them, not by age or job title.
+- Market and trends: size with the logic behind the number, growth, leaders, what is becoming the minimum users expect, each figure with a source and a date.
 
 The result is `concept.md` in your project root, under two pages, in your words, with a mandatory section "Where the plan is weak". You confirm it, then you build.
 

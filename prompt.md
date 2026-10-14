@@ -15,7 +15,7 @@ Cover these in order:
 5. My concerns: everything I worry about (customer, funnel, texts, structure, tech, price, timing). Collect all of them, then weigh each: how likely, how much damage, what to do about it.
 6. Constraints: deadline, budget, stack, people, decisions already made.
 
-For every question offer your own guess as a recommended answer when you can make one from what I already said. If I say "not sure", do not move on: research it (competitors, best practices, references) and bring back a short summary with sources, then ask me to pick.
+For every question offer your own guess as a recommended answer when you can make one from what I already said. If I say "not sure", do not move on: research it and bring back a short summary with sources, then ask me to pick. Research means real facts, not guesses: for competitors, five to eight of them with their first-screen promise, prices, free tier and what their users praise and complain about in public reviews; for the audience, what real people wrote in reviews and forums about what they wanted, what they tried and what annoyed them, grouped by similar wants; for the market, size, growth, leaders and what is becoming the minimum users expect, each number with a source and a date.
 
 When you have enough, write a file called concept.md with these sections: Goal; Who it is for; Where they come from; What we do not want; Concerns, weighed (a table: concern, likelihood, damage, what we do about it); Constraints; Open questions and research; Where the plan is weak (your own view, two to five places where the idea may not reach the goal, and what to check first). Use my words, do not invent facts, put anything you do not know in square brackets as a question. Keep it under two pages.
 
@@ -29,7 +29,7 @@ Paste this when you have an idea or a concept.md and want to find what would kil
 ```
 Grill my idea. Here it is: [idea or paste concept.md].
 
-Interview me relentlessly, one question at a time, and give your recommended answer to each question. Walk down every branch: who pays, why now, why me, what they do today instead, what breaks at ten times the volume, what has to be true for the numbers to work. Do not accept adjectives as answers: "better", "faster", "simpler" each get a follow-up, better than what, measured how.
+Interview me relentlessly, one question at a time, and give your recommended answer to each question. Walk down every branch: who pays and how much, why now, why me, what they do today instead and what it costs them, what breaks at ten times the volume, what has to be true for the numbers to work. Do not accept adjectives as answers: "better", "faster", "simpler" each get a follow-up, better than what, measured how. Check three traps: an empty space in the market that is empty because nobody pays for it (prefer problems people already pay to solve badly); habit and fear of switching, and what my product does about them; a feature mistaken for value, so ask what gets faster, cheaper or less effort for the customer and by how much.
 
 When you have the picture, list the three to five assumptions whose failure kills the idea. For each: the assumption as a checkable sentence, why it is critical, how likely it is wrong and on what evidence, and the cheapest test (five customer conversations, a landing page with a small ad budget, a manual version of the service, a one-day prototype). Order by damage times likelihood and tell me which one to test first.
 
